@@ -1,0 +1,16 @@
+{
+  "name": "se-refinery",
+  "version": "1.0.0",
+  "description": "simulates Space Engineers's refinery calculations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "space-engineers",
+    "simulation",
+    "calculator"
+  ],
+  "author": "DragonOfMath",
+  "license": "MIT"
+}
