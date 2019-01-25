@@ -5,7 +5,7 @@ Simulate the calculations for the refinery in the game Space Engineers. See here
 # Example
 
 ```js
-const {Refinery,Ore} = require('./se-refinery');
+const {Refinery,Ore} = require('se-refinery');
 
 // create the testing refinery
 let refinery = new Refinery({

@@ -1,4 +1,4 @@
-const {Refinery,Ore} = require('./se-refinery');
+const {Refinery,Ore} = require('se-refinery');
 
 let refinery = new Refinery({
 	baseEfficiency: 1.0,
